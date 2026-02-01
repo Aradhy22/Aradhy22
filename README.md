@@ -59,7 +59,7 @@ I love turning **code + CAD + sensors** into robots that:
 </td>
 <td width="40%" align="center">
 
-<img src="YOUR_GAZEBO_NAVIGATION_GIF.gif" width="320"/>
+<img src="assets/turtle_gif(2).gif" width="320"/>
 
 </td>
 </tr>
