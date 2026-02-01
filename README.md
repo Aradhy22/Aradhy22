@@ -1,9 +1,9 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="YOUR_CUSTOM_ROBOT_BANNER.gif" width="100%"/>
+  <img src="assets./Birthday.png" width="75%" height="75%"/>
 </p>
 
-<h1 align="center">🤖 Aradhy Agarwal</h1>
+
 <h3 align="center">Building Autonomous Robots • Vision Systems • Intelligent Motion</h3>
 
 <p align="center">
