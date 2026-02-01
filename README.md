@@ -107,7 +107,7 @@ I love turning **code + CAD + sensors** into robots that:
 </td>
 <td width="40%" align="center">
 
-<img src="YOUR_ANIMATRONIC_EYE_GIF.gif" width="280"/>
+<img src="assets./vis2 (1).gif" width="320"/>
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ I love turning **code + CAD + sensors** into robots that:
 <tr>
 <td width="40%" align="center">
 
-<img src="YOUR_WAREHOUSE_ROBOT_GIF.gif" width="320"/>
+<img src="assets./ware.gif" width="320"/>>
 
 </td>
 <td width="60%" valign="top">
@@ -153,7 +153,7 @@ I love turning **code + CAD + sensors** into robots that:
 </td>
 <td width="40%" align="center">
 
-<img src="YOUR_DRONE_FLIGHT_GIF.gif" width="320"/>
+<img src="assets./drone.jpeg" width="320"/>
 
 </td>
 </tr>
