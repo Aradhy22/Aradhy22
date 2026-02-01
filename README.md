@@ -74,7 +74,7 @@ I love turning **code + CAD + sensors** into robots that:
 <tr>
 <td width="40%" align="center">
 
-<img src="assets./vis.gif" width="320"/>
+<img src="assets./vision.gif" width="320"/>
 
 </td>
 <td width="60%" valign="top">
